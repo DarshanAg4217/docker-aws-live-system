@@ -309,4 +309,4 @@ Thanks to the tutorial creators for providing educational guidance on Docker and
 **Darshan Agrawal**
 
 * GitHub: [@DarshanAg4217](https://github.com/DarshanAg4217)
-* LinkedIn: [Darshan Agrawal](https://linkedin.com/in/darshan-agrawal)
+* LinkedIn: [Darshan Agrawal](www.linkedin.com/in/darshan-agrawal-43a338260)
